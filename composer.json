@@ -1,0 +1,17 @@
+{
+    "name": "bogdanalexandru09/kafka-queue",
+    "require": {
+        "laravel/framework": "^10.42"
+    },
+    "autoload": {
+        "psr-4": {
+            "BogdanAlexandru09\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BogdanAlexandru09",
+            "email": "kojo2014@gmail.com"
+        }
+    ]
+}
